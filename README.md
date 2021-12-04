@@ -2,6 +2,14 @@
 
 基于ptrace原理实现的简单linux调试器，目前仅支持x86_64位环境。
 
+## 编译方式
+
+```
+git clone https://github.com/H4lo/Hdebugger.git
+cd Hdebugger
+make
+```
+
 ## Usage
 
 采用attach附加进程的方式对运行中的程序进行调试：
