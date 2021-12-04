@@ -96,7 +96,7 @@ single step success!
 
 ### info
 
-输入当前的寄存器信息：
+输出当前的寄存器信息：
 
 ```
 >> info
